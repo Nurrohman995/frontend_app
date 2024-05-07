@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### First Step
+first step you can clone backend from this repository [https://github.com/Nurrohman995/backend_app] and then configuration this project
+
 In the project directory, you can run:
 
 ### `npm start`
